@@ -9,8 +9,8 @@ import org.apache.lucene.search.TopDocs;
 
 public class LuceneTester {
 	
-   String indexDir = "C:\\Users\\iqbal\\OneDrive\\Desktop\\Practical_Practices\\01 IR Practical\\Lucence\\Index";
-   String dataDir = "C:\\Users\\iqbal\\OneDrive\\Desktop\\Practical_Practices\\01 IR Practical\\Lucence\\Data";
+   String indexDir = "C:\\Users\\Lucence\\Index";
+   String dataDir = "C:\\Users\\Lucence\\Data";
    Indexer indexer;
    Searcher searcher;
 
